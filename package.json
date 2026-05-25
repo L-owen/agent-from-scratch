@@ -1,0 +1,17 @@
+{
+  "name": "agent-from-scratch",
+  "version": "1.0.0",
+  "description": "A minimal agent loop using OpenAI API with bash tool",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx code.ts"
+  },
+  "dependencies": {
+    "openai": "^4.95.0",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.3",
+    "@types/node": "^22.13.0"
+  }
+}
