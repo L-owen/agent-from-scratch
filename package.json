@@ -7,11 +7,12 @@
     "start": "npx tsx code.ts"
   },
   "dependencies": {
-    "openai": "^4.95.0",
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "glob": "^13.0.6",
+    "openai": "^4.95.0"
   },
   "devDependencies": {
-    "tsx": "^4.19.3",
-    "@types/node": "^22.13.0"
+    "@types/node": "^22.13.0",
+    "tsx": "^4.19.3"
   }
 }
