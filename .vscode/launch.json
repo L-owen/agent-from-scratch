@@ -6,7 +6,7 @@
       "type": "node",
       "request": "launch",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["tsx", "code.ts"],
+      "runtimeArgs": ["tsx", "02-tool-use.ts"],
       "cwd": "${workspaceFolder}",
       "console": "integratedTerminal"
     }
