@@ -6,7 +6,7 @@
       "type": "node",
       "request": "launch",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["tsx", "05-todo-write.ts"],
+      "runtimeArgs": ["tsx", "06-subagent.ts"],
       "cwd": "${workspaceFolder}",
       "console": "integratedTerminal"
     }
