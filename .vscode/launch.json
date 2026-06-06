@@ -6,7 +6,7 @@
       "type": "node",
       "request": "launch",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["tsx", "07-skill-loading.ts"],
+      "runtimeArgs": ["tsx", "09-memory.ts"],
       "cwd": "${workspaceFolder}",
       "console": "integratedTerminal"
     }
